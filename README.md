@@ -1,2 +1,4 @@
-# karak-dispenser
-IoT Karak - Order your Karak online! -- CarngieApps2017 Mentors Hack
+# Karak Dispenser
+IoT Karak -- CarngieApps2017 Mentors Hack
+
+## MORE INFO WILL COME!
