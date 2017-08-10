@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import RPi.GPIO as GPIO 
+import RPi.GPIO as GPIO
 import time
 import sys
 
@@ -14,8 +14,6 @@ def forward():
 	time.sleep(0.001)
 	GPIO.output(18, GPIO.LOW)
 	time.sleep(0.02)
-	#GPIO.output(19, GPIO.HIGH)
-	#time.sleep(0.0065)
 
 def backward():
         GPIO.output(18, GPIO.HIGH)
@@ -53,18 +51,7 @@ if __name__ == "__main__":
 	pwm = GPIO.PWM(18,50)
 	start = time.time()
 	while True:
-		#GPIO.output(18, GPIO.HIGH)
-		#GPIO.output(23, GPIO.HIGH)
-		#fullPWM(pwm)
 		backward()
 
 		if time.time() - start > total_time:
 			break
-		#time.sleep(2)
-		#center()
-		#time.sleep(1)
-		#backwardPWM(pwm)
-		#time.sleep(1)
-
-#forward()
-
