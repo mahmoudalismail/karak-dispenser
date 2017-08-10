@@ -48,11 +48,12 @@ we were mentoring people)*
 
 ## Presentation
 
-[Fahim and I presenting our hack!](fahim_and_mahmoud.jpg)
-Fahim and I presenting our hack!
+![Fahim and I presenting our hack!](fahim_and_mahmoud.jpg)
+<center>**Fahim and I presenting our hack!**</center>
 
-[This is me being extremely happy about this "technology".](happy_mahmoud.jpg)
-This is me being extremely happy about this "technology".
+
+![This is me being extremely happy about this "technology".](happy_mahmoud.jpg)
+<center>**This is me being extremely happy about this "technology"**</center>
 
 ## Acknowledgements
 
