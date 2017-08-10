@@ -42,6 +42,10 @@ is to go to the pot's webpage and request a karak.
 
 Below is a video for illustration. This video was shot in the testing phase. The pot contained water.
 
+
+<a href="https://www.youtube.com/watch?v=kBgga2mIX5A" target="_blank"><img src="http://img.youtube.com/vi/kBgga2mIX5A/0.jpg"
+alt="" width="340" height="280" border="0" /></a>
+
 *Notice: we would have come up with a simpler and elegant hack if we
 could have had more time, resources, and sleep (don't forget that
 we were mentoring people)*
@@ -49,11 +53,11 @@ we were mentoring people)*
 ## Presentation
 
 ![Fahim and I presenting our hack!](fahim_and_mahmoud.jpg)
-<center>**Fahim and I presenting our hack!**</center>
+**Fahim and I presenting our hack!**
 
 
 ![This is me being extremely happy about this "technology".](happy_mahmoud.jpg)
-<center>**This is me being extremely happy about this "technology"**</center>
+**This is me being extremely happy about this "technology"**
 
 ## Acknowledgements
 
@@ -63,4 +67,4 @@ I would like to thank Fahim for working with me on, it was definitely fun
 to work on something just for the fun of it. Also I would like to
 thank Daanish Khan for providing us with lego blocks and the Raspberry Pi.
 
-## [License](LICENSE)
+### [License](LICENSE)
